@@ -1,0 +1,14 @@
+name: keynote
+title: Keynote Theme
+font_color: 'FFFFFF'
+background_colour: '000000'
+marker_colour: 'FFFFFF'
+stroke_grid_markers: 0
+colours:
+ - '6886B4'
+ - 'FDD84E'
+ - '72AE6E'
+ - 'D1695E'
+ - '8A6EAF'
+ - 'EFAA43'
+ - 'FFFFFF'
